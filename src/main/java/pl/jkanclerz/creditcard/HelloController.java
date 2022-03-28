@@ -10,6 +10,7 @@ import java.util.List;
 public class HelloController {
 
 
+    private final NameProvider nameProvider;
 
     public  HelloController(NameProvider nameProvider) {
         this.nameProvider = nameProvider;
