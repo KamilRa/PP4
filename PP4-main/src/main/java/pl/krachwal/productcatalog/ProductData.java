@@ -2,7 +2,9 @@ package pl.krachwal.productcatalog;
 
 import java.math.BigDecimal;
 
+@Entity
 public class ProductData {
+    @Id
     private final String id;
     private final String name;
     private BigDecimal newPrice;
