@@ -1,0 +1,4 @@
+W zdecydowaniej większości zostało pobierane z githuba
+szczerze mówiąc
+A to co miałem, było przepisywane podczas lekcji
+Próbowałem dodać działające pop-up'y, poprzez  użycie kodu z w3schools, ale nie chodziło mi o akurat tego typu pop upy
